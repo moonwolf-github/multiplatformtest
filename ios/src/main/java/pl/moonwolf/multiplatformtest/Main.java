@@ -1,4 +1,4 @@
-package pl.moonwolf;
+package pl.moonwolf.multiplatformtest;
 
 import apple.NSObject;
 import apple.foundation.NSDictionary;
