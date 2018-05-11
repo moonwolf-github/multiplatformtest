@@ -1,4 +1,4 @@
-package model;
+package pl.moonwolf.multiplatformtest.model;
 
 public class Repository
 {

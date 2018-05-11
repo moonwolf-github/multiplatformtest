@@ -1,8 +1,8 @@
-package interfaces;
+package pl.moonwolf.multiplatformtest.interfaces;
 
 import java.util.List;
 
-import model.Repository;
+import pl.moonwolf.multiplatformtest.model.Repository;
 import retrofit2.http.GET;
 import rx.Observable;
 

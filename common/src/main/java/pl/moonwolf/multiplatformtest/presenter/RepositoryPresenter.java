@@ -1,11 +1,11 @@
-package presenter;
+package pl.moonwolf.multiplatformtest.presenter;
 
 import java.util.List;
 
-import api.ServiceGenerator;
-import interfaces.GitHubApi;
-import interfaces.IRepositoryView;
-import model.Repository;
+import pl.moonwolf.multiplatformtest.api.ServiceGenerator;
+import pl.moonwolf.multiplatformtest.interfaces.GitHubApi;
+import pl.moonwolf.multiplatformtest.interfaces.IRepositoryView;
+import pl.moonwolf.multiplatformtest.model.Repository;
 import rx.Scheduler;
 import rx.Subscriber;
 

@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import model.Repository;
+import pl.moonwolf.multiplatformtest.model.Repository;
 
 public class RepositoriesAdapter extends RecyclerView.Adapter<RepositoriesAdapter.RepositoriesViewHolder>
 {

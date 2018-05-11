@@ -10,9 +10,9 @@ import android.widget.LinearLayout;
 import java.util.ArrayList;
 import java.util.List;
 
-import interfaces.IRepositoryView;
-import model.Repository;
-import presenter.RepositoryPresenter;
+import pl.moonwolf.multiplatformtest.interfaces.IRepositoryView;
+import pl.moonwolf.multiplatformtest.model.Repository;
+import pl.moonwolf.multiplatformtest.presenter.RepositoryPresenter;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
