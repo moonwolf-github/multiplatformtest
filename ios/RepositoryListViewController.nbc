@@ -1,0 +1,1 @@
+{"output":"src/main/java","platform":"iOS","bindings":[{"type":"header","name":"RepositoryListViewController","objcClassGenerationMode":"Binding","headerPath":"xcode/multiplatformtest","headerSearchPaths":[],"userHeaderSearchPaths":[],"frameworkSearchPaths":[],"packageBase":"pl.moonwolf.multiplatformtest","importCode":"#import \"RepositoryListViewController.h\""}]}
